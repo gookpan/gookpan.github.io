@@ -1,8 +1,7 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: "고난도 임무 비망록"
+description: Raids n Trials Breakthrough
 theme: just-the-docs
-
-url: https://just-the-docs.github.io
-
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+baseurl: "/"
+url: https://gookpan.github.io
+search_enable: true
+color_scheme: dark
